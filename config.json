@@ -1,5 +1,5 @@
 {
-  "facebookAccount": {
+  "facebookAccount": {https://www.facebook.com/profile.php?id=61573657085244
     "email": "",
     "password": "",
     "2FASecret": "",
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "",
+    "61573657085244",
     ""
   ],
   "whiteListMode": {
@@ -26,7 +26,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "Your_Bot_Name",
-  "prefix": "/",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
